@@ -1,0 +1,29 @@
+.buy{
+  display: inline;
+ margin-left: 20px;
+ margin-bottom: 30px;
+  padding: 15px;
+  color:white;
+  background:green;
+
+}
+.sell{
+  display: inline;
+ margin-left: 20px;
+ margin-bottom: 30px;
+  padding: 15px;
+  color:white;
+  background:green;
+
+
+}
+a{
+  text-decoration:none;
+  color: white;
+  font-size: 20px
+}
+
+body{
+  text-align: center;
+
+}
